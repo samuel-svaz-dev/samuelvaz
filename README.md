@@ -1,9 +1,9 @@
 # Olá Mundo! Eu sou o Samuel 👋
 
-🎓 Formado em Licenciatura em Matemática
-🔄 Finalizando Mestrado em Educação em Ciências e Matemática
-🖥️ Estudante de Engenharia de Software e Python
-🔀 Processo de Transição de Carreira para a área de Tecnologia
+- 🎓 Formado em Licenciatura em Matemática
+- 🔄 Finalizando Mestrado em Educação em Ciências e Matemática
+- 🖥️ Estudante de Engenharia de Software e Python
+- 🔀 Processo de Transição de Carreira para a área de Tecnologia
 
 # Objetivos 🎯
 - Conseguir minhas primeiras experiências profissionais na área
