@@ -12,6 +12,7 @@
 
 # Repositórios em Destaque 📂
 - Exercícios Python
+- Sistema de Finanças
 
 # Estudos 📚🐍
 - Análise e Desenvolvimento de Sistemas
