@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner dinâmico com texto animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vlinemid=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Matem%C3%A1tico+%E2%86%92+Desenvolvedor;Apaixonado+por+c%C3%B3digo+e+l%C3%B3gica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vlinemid=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Professor+%E2%86%92+Desenvolvedor;Apaixonado+por+c%C3%B3digo+e+l%C3%B3gica)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,14 +15,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou professor de Matemática com mestrado em andamento, e estou construindo uma nova carreira na área de tecnologia. Minha base em lógica matemática é minha maior aliada no aprendizado de programação — e estou colocando isso em prática todos os dias.
+Sou professor de Matemática com mestrado em andamento, e estou construindo uma nova carreira na área de tecnologia. Buscando sempre aprender mais coisas para evoluir e conseguir ingressar nessa área.
 
 ```python
 samuel = {
     "formação":  ["Lic. Matemática", "Mestrado em Ed. Matemática (em andamento)"],
     "estudando": ["Engenharia de Software", "Python", "Git & GitHub"],
     "objetivo":  "Desenvolvedor Backend Python",
-    "superpoder": "Pensar em lógica antes de escrever código 🧠"
+    "superpoder": "Estudar sem medo 🧠"
 }
 ```
 
