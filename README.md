@@ -55,7 +55,7 @@ samuel = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=svazsamuel-debug&show_icons=true&theme=tokyonight&border_color=00D4FF&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuel-svaz-dev&show_icons=true&theme=tokyonight&border_color=00D4FF&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svazsamuel-debug&layout=compact&theme=tokyonight&border_color=00D4FF"/>
 
 </div>
