@@ -45,7 +45,7 @@ samuel = {
 
 <div align="center">
 
-[![Exercícios Python](https://github-readme-stats.vercel.app/api/pin/?username=svazsamuel-debug&repo=exercicios-python&theme=tokyonight&border_color=00D4FF)](https://github.com/svazsamuel-debug/exercicios-python)
+[![Exercícios Python](https://github-readme-stats.vercel.app/api/pin/?username=svazsamuel-debug&repo=exercicios-python&theme=tokyonight&border_color=00D4FF)](https://github.com/samuel-svaz-dev/exercicios-python)
 
 </div>
 
@@ -56,13 +56,13 @@ samuel = {
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuel-svaz-dev&show_icons=true&theme=tokyonight&border_color=00D4FF&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svazsamuel-debug&layout=compact&theme=tokyonight&border_color=00D4FF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-svaz-dev&layout=compact&theme=tokyonight&border_color=00D4FF"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=svazsamuel-debug&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=samuel-svaz-dev&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)
 
 </div>
 
@@ -89,7 +89,7 @@ Matemática  →  Git/GitHub  →   pessoais   →  Studies →  Júnior 🚀
 
 <br/>
 
-![Visitantes](https://komarev.com/ghpvc/?username=svazsamuel-debug&color=00D4FF&style=for-the-badge&label=Visitas+ao+perfil)
+![Visitantes](https://komarev.com/ghpvc/?username=samuel-svaz-dev&color=00D4FF&style=for-the-badge&label=Visitas+ao+perfil)
 
 </div>
 
