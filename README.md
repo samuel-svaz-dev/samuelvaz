@@ -20,7 +20,7 @@ Sou professor de Matemática com mestrado em andamento, e estou construindo uma 
 ```python
 samuel = {
     "formação":  ["Lic. Matemática", "Mestrado em Ed. Matemática (em andamento)"],
-    "estudando": ["Engenharia de Software", "Python", "Git & GitHub"],
+    "estudando": ["Graduação em Engenharia de Software", "Python", "Git & GitHub"],
     "objetivo":  "Desenvolvedor Backend Python",
     "superpoder": "Estudar sem medo 🧠"
 }
