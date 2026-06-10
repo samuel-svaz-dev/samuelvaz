@@ -45,7 +45,7 @@ samuel = {
 
 <div align="center">
 
-[![Exercícios Python](https://github-readme-stats.vercel.app/api/pin/?username=svazsamuel-debug&repo=exercicios-python&theme=tokyonight&border_color=00D4FF)](https://github.com/samuel-svaz-dev/exercicios-python)
+[![Sistema de Finanças](https://github-readme-stats.vercel.app/api/pin/?username=samuel-svaz-dev&repo=sistema_de_financas&theme=tokyonight&border_color=00D4FF)](https://github.com/samuel-svaz-dev/sistema_de_financas)
 
 </div>
 
